@@ -1,0 +1,6 @@
+produto,categoria,origem,granulometria,estoque,kg,participacao_pct,valor_comercial_medio_brl_ton,custo_brl
+CompostoOrganicoBase,organico,organica,farelada,True,406.4892061580796,40.64892061580796,220.0,89.4276253547775
+TSP41,fosfatado,mineral,granulada,True,212.08927122402503,21.208927122402503,2900.0,615.0588865496726
+Ureia46,nitrogenado,mineral,granulada,True,210.3219268494247,21.03219268494247,3670.0,771.8814715373886
+KCl60,potassico,mineral,granulada,True,163.95673862561281,16.39567386256128,2620.0,429.5666551991056
+Ulexita14B,micronutriente_boro,mineral,farelada,True,7.142857142857142,0.7142857142857143,4200.0,30.0

@@ -1,0 +1,704 @@
+{
+  "produtos": [
+    {
+      "produto": "Ureia45",
+      "categoria": "nitrogenado",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 3590,
+      "nutrientes": {
+        "n_sol_agua": 45,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "Ureia46",
+      "categoria": "nitrogenado",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 3670,
+      "nutrientes": {
+        "n_sol_agua": 46,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "SulfatoAmonio20_22",
+      "categoria": "nitrogenado",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 1850,
+      "nutrientes": {
+        "n_sol_agua": 20,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 22
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "MAP09_48",
+      "categoria": "fosfatado_amoniacal",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 4360,
+      "nutrientes": {
+        "n_sol_agua": 9,
+        "p2o5_cna_agua": 48,
+        "p2o5_total": 48,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "MAP11_52",
+      "categoria": "fosfatado_amoniacal",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 4820,
+      "nutrientes": {
+        "n_sol_agua": 11,
+        "p2o5_cna_agua": 52,
+        "p2o5_total": 52,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "MAPCristal11_60",
+      "categoria": "fosfatado_amoniacal",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 5450,
+      "nutrientes": {
+        "n_sol_agua": 11,
+        "p2o5_cna_agua": 60,
+        "p2o5_total": 60,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "DAP17_45",
+      "categoria": "fosfatado_amoniacal",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 4740,
+      "nutrientes": {
+        "n_sol_agua": 17,
+        "p2o5_cna_agua": 45,
+        "p2o5_total": 45,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "DAPCristal19_50",
+      "categoria": "fosfatado_amoniacal",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 5280,
+      "nutrientes": {
+        "n_sol_agua": 19,
+        "p2o5_cna_agua": 50,
+        "p2o5_total": 50,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "KCl58",
+      "categoria": "potassico",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 2530,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 58,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "KCl60",
+      "categoria": "potassico",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 2620,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 60,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "KCl62",
+      "estoque": true,
+      "categoria": "potassico",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 0,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 62,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      }
+    },
+    {
+      "produto": "SSP18",
+      "categoria": "fosfatado",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 2170,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 18,
+        "p2o5_total": 18,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 16,
+          "mg": 0,
+          "s": 10
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "TSP41",
+      "categoria": "fosfatado",
+      "granulometria": "granulada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 4000,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 46,
+        "p2o5_total": 46,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 10,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "GessoAgricola16Ca13S",
+      "categoria": "calcio_enxofre",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 280,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 17,
+          "mg": 0,
+          "s": 13
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "SulfatoMagnesio09Mg11S",
+      "categoria": "magnesiano",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 5200,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 9,
+          "s": 11
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "AcidoBorico17B",
+      "categoria": "micronutriente_boro",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 7000,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 17,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "Borax10B",
+      "categoria": "micronutriente_boro",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 11950,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 10,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "Ulexita14B",
+      "categoria": "micronutriente_boro",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 4200,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 14,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "SulfatoZinco35Zn9S",
+      "categoria": "micronutriente_zinco",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 4950,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 9
+        },
+        "micros": {
+          "b": 0,
+          "zn": 35,
+          "mn": 0,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "SulfatoManganes26Mn16S",
+      "categoria": "micronutriente_manganes",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 5600,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 16
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 26,
+          "si": 0,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "SulfatoCobre24Cu11S",
+      "categoria": "micronutriente_cobre",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 9800,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 11
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 0,
+          "cu": 24
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "SilicatoCalcio29Ca20Si",
+      "categoria": "fonte_silicio",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 200,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 29,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 20,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "SilicatoCalcioMagnesio7Ca1Mg10Si",
+      "categoria": "fonte_silicio",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 110,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 7,
+          "mg": 1,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 10,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "SilicatoPotassio10K2O10Si",
+      "categoria": "fonte_silicio",
+      "granulometria": "farelada",
+      "origem": "mineral",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 3500,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 10,
+        "carbono_organico": 0,
+        "macros_secundarios": {
+          "ca": 0,
+          "mg": 0,
+          "s": 0
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0,
+          "mn": 0,
+          "si": 10,
+          "cu": 0
+        }
+      },
+      "estoque": false
+    },
+    {
+      "produto": "CompostoOrganicoBase",
+      "categoria": "organico",
+      "granulometria": "farelada",
+      "origem": "organica",
+      "analise_variavel": true,
+      "valor_comercial_medio_brl_ton": 220,
+      "nutrientes": {
+        "n_sol_agua": 0.8,
+        "p2o5_cna_agua": 0.6,
+        "p2o5_total": 1,
+        "k2o_sol_agua": 0.4,
+        "carbono_organico": 20,
+        "macros_secundarios": {
+          "ca": 5,
+          "mg": 0.2,
+          "s": 0.4
+        },
+        "micros": {
+          "b": 0,
+          "zn": 0.02,
+          "mn": 0,
+          "si": 11,
+          "cu": 0
+        }
+      },
+      "estoque": true
+    }
+  ]
+}
