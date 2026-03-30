@@ -468,5 +468,23 @@
       },
       "estoque": true
     }
+    {
+      "produto": "EnxofreElementarPastilhado",
+      "categoria": "fonte_enxofre",
+      "granulometria": "pastilhado",
+      "origem": "minerael",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 0,
+      "nutrientes": {
+        "n_sol_agua": 0,
+        "p2o5_cna_agua": 0,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 0,
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 99 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
+      },
+      "estoque": true
+    }
   ]
 }
