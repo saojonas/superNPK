@@ -241,6 +241,47 @@ def build_template_csv() -> bytes:
     return df.to_csv(index=False).encode('utf-8')
 
 
+
+
+def export_catalog_csv(df: pd.DataFrame) -> bytes:
+    return df[DISPLAY_COLUMNS].to_csv(index=False).encode('utf-8')
+
+
+def render_catalog_editor(df: pd.DataFrame) -> pd.DataFrame:
+    editor_df = st.data_editor(
+        df[DISPLAY_COLUMNS].copy(),
+        use_container_width=True,
+        height=420,
+        hide_index=True,
+        num_rows='fixed',
+        column_config={
+            'produto': st.column_config.TextColumn('Produto', disabled=True),
+            'categoria': st.column_config.TextColumn('Categoria'),
+            'origem': st.column_config.TextColumn('Origem'),
+            'granulometria': st.column_config.TextColumn('Granulometria'),
+            'estoque': st.column_config.CheckboxColumn('Em estoque?'),
+            'valor_comercial_medio_brl_ton': st.column_config.NumberColumn('Valor (R$/t)', min_value=0.0, step=1.0, format='%.2f'),
+            'n_sol_agua': st.column_config.NumberColumn('N (%)', format='%.4f'),
+            'p2o5_cna_agua': st.column_config.NumberColumn('P2O5 CNA+água (%)', format='%.4f'),
+            'p2o5_total': st.column_config.NumberColumn('P2O5 total (%)', format='%.4f'),
+            'k2o_sol_agua': st.column_config.NumberColumn('K2O (%)', format='%.4f'),
+            'carbono_organico': st.column_config.NumberColumn('C orgânico (%)', format='%.4f'),
+            'ca': st.column_config.NumberColumn('Ca (%)', format='%.4f'),
+            'mg': st.column_config.NumberColumn('Mg (%)', format='%.4f'),
+            's': st.column_config.NumberColumn('S (%)', format='%.4f'),
+            'b': st.column_config.NumberColumn('B (%)', format='%.4f'),
+            'zn': st.column_config.NumberColumn('Zn (%)', format='%.4f'),
+            'mn': st.column_config.NumberColumn('Mn (%)', format='%.4f'),
+            'si': st.column_config.NumberColumn('Si (%)', format='%.4f'),
+            'cu': st.column_config.NumberColumn('Cu (%)', format='%.4f'),
+        },
+        key='catalogo_editor',
+    )
+
+    editor_df = normalize_dataframe(editor_df)
+    return editor_df
+
+
 def build_bounds(df: pd.DataFrame, use_inventory_only: bool, allow_zero_price: bool) -> Tuple[pd.DataFrame, List[Tuple[float, float | None]], List[str]]:
     work = df.copy()
     removed = []
@@ -412,8 +453,33 @@ def main():
         batch_mass_kg = st.number_input('Massa do lote (kg)', min_value=1.0, value=1000.0, step=100.0)
         min_organic_pct = st.number_input('Mínimo orgânico por massa (%)', min_value=0.0, value=8.0, step=1.0)
 
+    if 'catalogo_df' not in st.session_state:
+        st.session_state['catalogo_df'] = df[DISPLAY_COLUMNS].copy()
+
+    current_catalog_signature = df[DISPLAY_COLUMNS].to_json(orient='split', date_format='iso')
+    previous_catalog_signature = st.session_state.get('catalogo_source_signature')
+    if previous_catalog_signature != current_catalog_signature:
+        st.session_state['catalogo_df'] = df[DISPLAY_COLUMNS].copy()
+        st.session_state['catalogo_source_signature'] = current_catalog_signature
+
     st.subheader('Catálogo normalizado')
-    st.dataframe(df[DISPLAY_COLUMNS], use_container_width=True, height=320)
+    quick1, quick2, quick3 = st.columns([1, 1, 2])
+    with quick1:
+        if st.button('Marcar todos em estoque'):
+            st.session_state['catalogo_df']['estoque'] = True
+    with quick2:
+        if st.button('Desmarcar todos do estoque'):
+            st.session_state['catalogo_df']['estoque'] = False
+    with quick3:
+        st.download_button(
+            'Baixar catálogo editado (CSV)',
+            export_catalog_csv(st.session_state['catalogo_df']),
+            file_name='catalogo_editado.csv',
+            mime='text/csv',
+        )
+
+    df = render_catalog_editor(st.session_state['catalogo_df'])
+    st.session_state['catalogo_df'] = df.copy()
 
     st.subheader('Garantias alvo')
     formula_txt = st.text_input('Formulação alvo (atalho)', value='10-10-10+2%b', help='Ex.: 10-10-10, 04-14-08, 10-10-10+2%b, 08-20-10+0.3%zn')
