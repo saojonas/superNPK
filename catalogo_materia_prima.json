@@ -13,18 +13,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -41,18 +31,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     },
@@ -69,18 +49,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 22
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 22 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     },
@@ -97,18 +67,8 @@
         "p2o5_total": 48,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -125,18 +85,8 @@
         "p2o5_total": 52,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     },
@@ -153,18 +103,8 @@
         "p2o5_total": 60,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -181,18 +121,8 @@
         "p2o5_total": 45,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -209,18 +139,8 @@
         "p2o5_total": 50,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -237,18 +157,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 58,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -265,18 +175,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 60,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     },
@@ -294,18 +194,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 62,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       }
     },
     {
@@ -321,18 +211,8 @@
         "p2o5_total": 18,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 16,
-          "mg": 0,
-          "s": 10
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 16, "mg": 0, "s": 10 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -349,18 +229,8 @@
         "p2o5_total": 46,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 10,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 10, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     },
@@ -377,18 +247,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 17,
-          "mg": 0,
-          "s": 13
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 17, "mg": 0, "s": 13 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     },
@@ -405,18 +265,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 9,
-          "s": 11
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 9, "s": 11 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -433,18 +283,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 17,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 17, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -461,18 +301,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 10,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 10, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -489,18 +319,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 14,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 14, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     },
@@ -517,18 +337,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 9
-        },
-        "micros": {
-          "b": 0,
-          "zn": 35,
-          "mn": 0,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 9 },
+        "micros": { "b": 0, "zn": 35, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     },
@@ -545,18 +355,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 16
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 26,
-          "si": 0,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 16 },
+        "micros": { "b": 0, "zn": 0, "mn": 26, "si": 0, "cu": 0 }
       },
       "estoque": false
     },
@@ -573,18 +373,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 11
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 0,
-          "cu": 24
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 11 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 24 }
       },
       "estoque": false
     },
@@ -601,18 +391,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 29,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 20,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 29, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 20, "cu": 0 }
       },
       "estoque": true
     },
@@ -629,18 +409,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 0,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 7,
-          "mg": 1,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 10,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 7, "mg": 1, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 10, "cu": 0 }
       },
       "estoque": false
     },
@@ -657,18 +427,8 @@
         "p2o5_total": 0,
         "k2o_sol_agua": 10,
         "carbono_organico": 0,
-        "macros_secundarios": {
-          "ca": 0,
-          "mg": 0,
-          "s": 0
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0,
-          "mn": 0,
-          "si": 10,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 10, "cu": 0 }
       },
       "estoque": false
     },
@@ -685,18 +445,26 @@
         "p2o5_total": 1,
         "k2o_sol_agua": 0.4,
         "carbono_organico": 20,
-        "macros_secundarios": {
-          "ca": 5,
-          "mg": 0.2,
-          "s": 0.4
-        },
-        "micros": {
-          "b": 0,
-          "zn": 0.02,
-          "mn": 0,
-          "si": 11,
-          "cu": 0
-        }
+        "macros_secundarios": { "ca": 5, "mg": 0.2, "s": 0.4 },
+        "micros": { "b": 0, "zn": 0.02, "mn": 0, "si": 11, "cu": 0 }
+      },
+      "estoque": true
+    },
+    {
+      "produto": "OrganicoGranulado",
+      "categoria": "organico",
+      "granulometria": "granulos",
+      "origem": "organica",
+      "analise_variavel": false,
+      "valor_comercial_medio_brl_ton": 0,
+      "nutrientes": {
+        "n_sol_agua": 4,
+        "p2o5_cna_agua": 1,
+        "p2o5_total": 0,
+        "k2o_sol_agua": 0,
+        "carbono_organico": 18,
+        "macros_secundarios": { "ca": 0, "mg": 0, "s": 0 },
+        "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
     }
