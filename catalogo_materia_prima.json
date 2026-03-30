@@ -467,7 +467,7 @@
         "micros": { "b": 0, "zn": 0, "mn": 0, "si": 0, "cu": 0 }
       },
       "estoque": true
-    }
+    },
     {
       "produto": "EnxofreElementarPastilhado",
       "categoria": "fonte_enxofre",
